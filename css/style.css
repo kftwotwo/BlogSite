@@ -7,16 +7,24 @@ img {
   width: 50%
 }
 .bus {
-  color: darkblue
+  color: darkblue;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .dinner{
-  color: darkorange
+  color: darkorange;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .aboutMe {
   color: green;
   font-style: italic;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .intro {
   font-size: 120%;
   text-decoration: underline;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
