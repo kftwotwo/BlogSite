@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  font-family: arial;
+  background-color: grey
+}
+img {
+  width: 50%
+}
+.bus {
+  color: darkblue
+}
+.dinner{
+  color: darkorange
+}
+.aboutMe {
+  color: green;
+  font-style: italic;
+}
+.intro {
+  font-size: 120%;
+  text-decoration: underline;
+}
